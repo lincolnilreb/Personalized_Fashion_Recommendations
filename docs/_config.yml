@@ -1,0 +1,4 @@
+# theme: minima
+markdown: GFM
+titles_from_headings:
+  enabled:     false
